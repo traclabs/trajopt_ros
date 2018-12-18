@@ -16,6 +16,10 @@ To compile with `Gurobi` support, a `GUROBI_HOME` variable needs to be defined.
 Once `trajopt_ros` is compiled with support for a specific solver, you can select it by properly setting the `TRAJOPT_CONVEX_SOLVER` environment variable. Possible values are `GUROBI`, `BPMPD`, `OSQP`, `QPOASES`, `AUTO_SOLVER`.
 The selection to `AUTO_SOLVER` is the default and automatically picks the best between the available solvers.
 
+## Brief Description of libraries
+
+**trajopt_sco:** Sequential Complex Optimizer
+
 ## Build Branch Sphinx Documentation
 
 ```

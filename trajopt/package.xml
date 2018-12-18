@@ -15,7 +15,7 @@
   <depend>tesseract_core</depend>
   <depend>roscpp</depend>
 
-  <test_depend>gtest</test_depend>
+<!--  <test_depend>gtest</test_depend>
   <test_depend>rostest</test_depend>
   <test_depend>roslib</test_depend>
   <test_depend>tesseract_ros</test_depend>
@@ -24,7 +24,7 @@
   <test_depend>octomap_ros</test_depend>
   <test_depend>pcl_conversions</test_depend>
   <test_depend>pr2_description</test_depend>
-  <!-- The export tag contains other, unspecified, tags -->
+-->  <!-- The export tag contains other, unspecified, tags -->
   <export>
 
   </export>
